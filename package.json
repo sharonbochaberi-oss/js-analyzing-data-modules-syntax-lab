@@ -13,6 +13,7 @@
     "jest": "^29.7.0"
   },
   "dependencies": {
-    "datejs": "^1.0.0-rc3"
+    "datejs": "^1.0.0-rc3",
+    "package.json": "^2.0.1"
   }
 }
